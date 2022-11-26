@@ -46,7 +46,7 @@ The project must satisfy the following requirements:
 
 ### Links
 
-Live site URL: <a href="mycounters2i.netlify.app"> Netlify</a>
+Live site URL: <a href="https://mycounters2i.netlify.app/"> Netlify</a>
 <br>
 Source Code:<a href="https://github.com/Saleiux/counter"> GitHub</a> 
 
