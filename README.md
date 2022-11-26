@@ -46,9 +46,9 @@ The project must satisfy the following requirements:
 
 ### Links
 
-Live site URL: legendary-nougat-6c9ebb.netlify.app
+Live site URL: <a href="mycounters2i.netlify.app"> Netlify</a>
 <br>
-Source Code: https://github.com/Saleiux/counter
+Source Code:<a href="https://github.com/Saleiux/counter"> GitHub</a> 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,13 +77,13 @@ I learned how to build a counter and how add element dinamically just using java
 
 ### Usefull resources
 
-Thanks to: https://www.w3schools.com/ for helping me and solve any doubts that I had during the project 
+Thanks to: <a href="https://www.w3schools.com/">W3schools</a> for helping me and solve any doubts that I had during the project 
 <br>
-Thanks to: https://www.youtube.com/@WebDevSimplified for prepare myself for build this counter with some great projects that I did before. 
+Thanks to: <a href="https://www.youtube.com/@WebDevSimplified"> WebDevSimplified </a>for prepare myself for build this counter with some great projects that I did before. 
 
 
 
 ### Author
 
-Linkedin: https://www.linkedin.com/in/samuele-viale-3783601a3/
+Linkedin: <a href="https://www.linkedin.com/in/samuele-viale-3783601a3/"> Linkedin Profile </a>
 
