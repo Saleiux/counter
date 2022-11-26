@@ -52,9 +52,9 @@ The project must satisfy the following requirements:
 
 ### Links
 
-Live site URL: 
+Live site URL: legendary-nougat-6c9ebb.netlify.app
 <br>
-Source Code: 
+Source Code: https://github.com/Saleiux/counter
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
