@@ -25,6 +25,7 @@
         <li><a href="#usefull-resources">Usefull resources</a></li>
         <li><a href="#author>Author</a></li>
       </ul>
+      </li>
   </ol>
 </details>
 
