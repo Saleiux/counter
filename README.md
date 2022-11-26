@@ -23,7 +23,7 @@
         <li><a href="#built-with">Built with</a></li>
         <li><a href="#what-i-learned">What I learned</a></li>
         <li><a href="#usefull-resources">Usefull resources</a></li>
-        <li><a href="#author>Author</a></li>
+        <li><a href="#author">Author</a></li>
       </ul>
       </li>
   </ol>
