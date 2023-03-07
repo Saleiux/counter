@@ -70,6 +70,9 @@ reset.addEventListener("click", function() {
 })
 
 minus.addEventListener("click", function() {
+    if (count === 0) {
+        count = count
+    }
     count -= 1;
     counter.innerHTML = count;
 })
